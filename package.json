@@ -1,0 +1,20 @@
+{
+  "name": "privacy",
+  "version": "0.0.0",
+  "description": "privacy =======",
+  "main": "privacy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbuniverse/privacy.git"
+  },
+  "keywords": [
+    "privacy"
+  ],
+  "author": "Moritz Beck",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "83b3db6feaa2d3de9230e924f926b15f6e1159bd"
+}
